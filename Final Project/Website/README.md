@@ -1,5 +1,8 @@
 # Early Warning System (EWS) Web Dashboard
 
+<img width="2556" height="1267" alt="image" src="https://github.com/user-attachments/assets/7868aee3-4500-4cf3-92c2-fb53aef3a534" />
+
+
 A comprehensive water level monitoring and flood early warning system for Telkom University. This web application provides real-time water level monitoring, data visualization, and emergency notification capabilities.
 
 ## 🌊 About
