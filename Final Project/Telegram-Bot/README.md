@@ -1,4 +1,6 @@
 # 🌊 Early Warning System (EWS) Telegram Bot
+<img width="313" height="353" alt="image" src="https://github.com/user-attachments/assets/e2b3bbc0-873e-417d-91e2-0ea91a477296" />
+
 An automated water level monitoring and flood early warning system for the Sukapura River area. This bot integrates directly with a Supabase database to provide real-time information and emergency notifications to community members and group administrators.
 
 <br>
