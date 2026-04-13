@@ -1,4 +1,4 @@
-# 🌊 Early Warning System (EWS) Sukapura - Final Project
+# 🌊 Early Warning System (EWS) - Final Project
 
 A comprehensive water level monitoring and flood early warning system for the Sukapura River area. This project consists of two main components: a **Web Dashboard** for real-time data visualization and a **Telegram Bot** for automated emergency notification systems.
 
