@@ -47,12 +47,12 @@ def parse_time(time_str):
         logger.error(f"Error parsing time: {e}")
         return get_current_time()
 
-BOT_TOKEN = "7663919768:AAF3vGrRHwqA6oBKC5UENbcF-TnVefiyyPo"
-GROUP_ID = "-1002523156770"
+BOT_TOKEN = "**********"
+GROUP_ID = "**********"
 
-SUPABASE_URL = "https://ogywiicbgzdsdlhnrdir.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9neXdpaWNiZ3pkc2RsaG5yZGlyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY2NzkyOTQsImV4cCI6MjA2MjI1NTI5NH0.5TU3AyzBeu5-nytNDZmIQhHHAvNhELhHbcSVtlvfFqg"
-TABLE_NAME = "water_level_readings"
+SUPABASE_URL = "************"
+SUPABASE_KEY = "****************"
+TABLE_NAME = "***********"
 
 # Variabel global untuk tracking notifikasi
 last_alert_level = None
