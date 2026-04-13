@@ -83,6 +83,7 @@ The system uses a 4-tier classification based on water height:
 
 - **/help** - Usage guide and list of available commands.
 
+<br>
 
 ## ⚠️ Security Warning
 **Never share files containing your BOT_TOKEN or SUPABASE_KEY publicly. Use Environment Variables for production deployment.**
